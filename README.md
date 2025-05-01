@@ -1,4 +1,4 @@
-# Fine-tuning Qwen2-7b Vision Lanuage Model containing on images containing plots and visualizations.
+# Fine-tuning Qwen2-7b Vision Lanuage Model containing using a dataset with images containing plots and visualizations.
 - This repository contains an easy-to-use and understand, code to fine-tune VLMs (Visual Language Models).
 - Fine-tune the Qwen2-VL-7B-Instruct model using LoRA and 4-bit quantization.
 - With Vision-Language Models (VLMs), you can ask questions about an image and receive answers.
